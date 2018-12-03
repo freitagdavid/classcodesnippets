@@ -16,7 +16,7 @@ function proj-init {
         $Category = 'general'
     )
     $Editor = code-insiders
-    $SrcPath = 'C:\PortableApps\Documents\src'
+    $SrcPath = 'C:\your-source-directory'
     $FullPath = Join-Path $SrcPath $Category
     $Arguments = @{}
     $Arguments["ArgumentList"] = If ($ProjectName) {"'clone', '$GitRepo', '$ProjectName'"} Else {"'clone', '$GitRepo'"}
