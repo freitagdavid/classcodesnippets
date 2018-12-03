@@ -1,4 +1,4 @@
-#Code snippets that members of the class may think would be useful to other classmates.
+# Code snippets of FSW15
 
 Just make a file for your snippets add yourself to the list then make a pull request.
 
